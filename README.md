@@ -1,4 +1,2 @@
-- Hi, I’m Basanta Rai
-- I’m interested in web technologies.
-- I’m currently learning laravel.
-
+<img align="center" src="./image/bactocat.png" alt="bactocat">
+<h1 align="center">Hi, I'm Basanta Rai</h1>
